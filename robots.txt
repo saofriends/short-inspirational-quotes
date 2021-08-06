@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://short-inspirational-quotes.herokuapp.com/host-https-everydaypower.com/sitemap_index.xml
+Sitemap: https://short-inspirational-quotes.herokuapp.com/sitemap/sitemap.xml
